@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Score Keeper: Bowling Edition</string>
+    <string name="round1">Round 1</string>
+    <string name="round2">Round 2</string>
+    <string name="round3">Round 3</string>
+    <string name="round4">Round 4</string>
+    <string name="round5">Round 5</string>
+    <string name="round6">Round 6</string>
+    <string name="round7">Round 7</string>
+    <string name="round8">Round 8</string>
+    <string name="round9">Round 9</string>
+    <string name="round10">Round 10</string>
+    <string name="whichRound">Which round: </string>
+    <string name="previousScore">Previous score: </string>
+    <string name="addPoints">Add points</string>
+    <string name="strike">Strike!</string>
+    <string name="spare">Spare</string>
+    <string name="reset">Reset</string>
+
+</resources>
